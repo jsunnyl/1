@@ -1,0 +1,41 @@
+{
+    "squadName" : "欢迎加入抖音",
+    "homeTown" : "Metro City",
+    
+    "secretBase" : "Super tower",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "代古拉K",
+        "age" : 22,
+        "secretIdentity" : "舞神",
+        "powers" : [
+          "高颜值",
+          "有感染力的笑容",
+          "可爱甜美的形象"
+        ]
+      },
+      {
+        "name" : "温婉",
+        "age" : 18,
+        "secretIdentity" : "迪神",
+        "powers" : [
+          "高颜值",
+          "可爱呆萌",
+          "笑容甜美相当有感染力"
+        ]
+      },
+      {
+        "name" : "莉哥",
+        "age" : 22,
+        "secretIdentity" : "歌神",
+        "powers" : [
+          "耐看型",
+          "歌喉独特",
+          "有颜值有实力",
+          "偶像实力派",
+          "歌声非常有感染力"
+        ]
+      }
+    ]
+  }
